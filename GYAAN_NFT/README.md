@@ -28,7 +28,7 @@
 
 ## 📌 Overview  
 
-Zing Guru is **more than just a learning platform**—it’s an intelligent **learning ecosystem** that adapts to every student's needs.  
+Zing Guru is **more than just a learning platform**—it's an intelligent **learning ecosystem** that adapts to every student's needs.  
 
 - **Personalized AI learning paths** tailored for individuals.  
 - **Gamified learning** with challenges, leaderboards, and achievements.  
@@ -90,25 +90,43 @@ Zing Guru is **more than just a learning platform**—it’s an intelligent **le
 
 ### 🔹 Clone the Repository  
 ```bash
-git clone https://github.com/zingguru/zingguru-platform.git
-cd zingguru-platform
+git clone https://github.com/arifakhtar51/GYAANFT.git
+cd GYAANFT
 ```
 
-### 🔹 Install Dependencies  
+### 🔹 Frontend Setup  
 ```bash
+cd GYAAN_NFT/Frontend
 npm install
-```
-
-### 🔹 Start the Development Server  
-```bash
 npm run dev
 ```
 
 ### 🔹 Backend Setup  
 ```bash
-cd backend
+cd GYAAN_NFT/Backend
+npm install
+npm start
+```
+
+### 🔹 Fast API Setup  
+```bash
+cd GYAAN_NFT/Fast-API
 pip install -r requirements.txt
 python app.py
+```
+
+### 🔹 ML API Setup (Video Summarizer)  
+```bash
+cd GYAAN_NFT/ML-API/Video-summarizer
+pip install -r requirements.txt
+python main.py
+```
+
+### 🔹 MongoDB Setup  
+```bash
+cd GYAAN_NFT/Fast-API/RAG
+python setup_mongodb.py
+python setup_career_data.py
 ```
 
 ---
