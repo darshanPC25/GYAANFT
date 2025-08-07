@@ -118,14 +118,9 @@ VITE_GROQ_API_KEY=your-groq-api-key
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
 ## 📧 Contact
 
-- Email: arifakhtar902@gmail.com
+- Email: arifakhtar902@gmail.com or goodparidarshan@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -137,5 +132,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Made with ❤️ by the priority_queue
-```
-
