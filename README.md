@@ -15,7 +15,7 @@ This project presents a groundbreaking solution that leverages blockchain techno
 ## 🏗️ Project Architecture
 
 ```
-ACEHACK_4_0_Priority_Queue/
+GYAANFT/
 ├── ACE_4.0_LifeNFT_MODULE_1/          # Healthcare priority queue system
 │   ├── frontend/                       # React.js dashboard interfaces
 │   ├── backend/                        # FastAPI server
@@ -91,8 +91,8 @@ An innovative NFT-based educational platform that tokenizes learning achievement
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/arifakhtar51/ACEHACK_4_0_Priority_Queue.git
-   cd ACEHACK_4_0_Priority_Queue
+   git clone https://github.com/darshanPC25/GYAANFT.git
+   cd GYAANFT
    ```
 
 2. **Install Dependencies**
@@ -139,8 +139,8 @@ An innovative NFT-based educational platform that tokenizes learning achievement
 ### Advanced Setup
 
 For detailed setup instructions for each module, please refer to:
-- [LifeNFT Module Setup Guide](./ACE_4.0_LifeNFT_MODULE_1/README.md)
-- [GYAANFT Module Setup Guide](./ACE_4.0_Priority_Queue_GYAANFT_MODULE_2/README.md)
+- [LifeNFT Module Setup Guide](https://github.com/darshanPC25/GYAANFT/tree/main/ACE_4.0_LifeNFT_MODULE_1/ACE_4.0_Priority_Queue-main#readme)
+- [GYAANFT Module Setup Guide](https://github.com/darshanPC25/GYAANFT/tree/main/ACE_4.0_Priority_Queue_GYAANFT_MODULE_2/ACE_4.0_Priority_Queue_GYAANFT-main#readme)
 
 ## 🎯 Use Cases
 
@@ -309,9 +309,6 @@ Please use GitHub Issues to report bugs or request features. Include:
 - **Private Keys**: Secure key management practices
 - **Regular Updates**: Continuous security monitoring and updates
 
-### Reporting Security Issues
-
-Please report security vulnerabilities privately to: security@acehack-project.com
 
 ## 🚀 Deployment
 
@@ -335,12 +332,7 @@ npm run build
 npm run deploy:prod
 ```
 
-### Cloud Deployment Options
 
-- **AWS**: ECS, Lambda, RDS
-- **Google Cloud**: Cloud Run, Cloud Functions
-- **Azure**: Container Instances, Functions
-- **Heroku**: Web dynos, add-ons
 
 ## 📈 Monitoring & Analytics
 
@@ -426,29 +418,6 @@ npm run deploy:prod
 - **Community Forum**: Discussion and Q&A
 - **Email Support**: technical-support@acehack-project.com
 
-### Stay Connected
-
-- **Twitter**: [@ACEHACKProject](https://twitter.com/ACEHACKProject)
-- **LinkedIn**: [ACEHACK Project](https://linkedin.com/company/acehack-project)
-- **Telegram**: [ACEHACK Community](https://t.me/acehack_community)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🏆 Achievements & Recognition
-
-- **ACEHACK 4.0 Winner** - Best Innovation in Healthcare Technology
-- **Blockchain Excellence Award** - Outstanding Implementation of NFT Technology
-- **Healthcare Innovation Recognition** - Revolutionary Priority Queue System
-
-## 🙏 Acknowledgments
-
-- **ACEHACK 4.0 Organizers** - For providing the platform and opportunity
-- **Hive Blockchain Community** - For technical support and guidance
-- **Open Campus Ecosystem** - For EduChain infrastructure
-- **Healthcare Partners** - For domain expertise and validation
-- **Educational Institutions** - For pilot program participation
 
 ## 📊 Project Statistics
 
@@ -459,7 +428,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Documentation Pages**: 200+
 
 ---
-
-**Built with ❤️ by the ACEHACK 4.0 Priority Queue Team**
-
-For more information, visit our [project website](https://acehack-priority-queue.com) or contact us at [team@acehack-project.com](mailto:team@acehack-project.com).
