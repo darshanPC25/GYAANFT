@@ -120,21 +120,13 @@ This project was developed as part of the **Hive Blockchain Hackathon**, demonst
 - View donation history
 - Redeem NFT rewards
 
-
-## Contributing
-
-We welcome contributions to the BloodDonorNFT project. Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to make contributions.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Contact
 
-- Email: arifakhtar902@gmail.com
+- Email: arifakhtar902@gmail.com or goodparidarshan@gmail.com
 
 ## Acknowledgments
 
 - Blood donation centers worldwide for their invaluable service
 - The blockchain and NFT communities for inspiration
 - Our development team and early adopters
+
