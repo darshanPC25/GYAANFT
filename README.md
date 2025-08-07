@@ -1,10 +1,5 @@
 # ACEHACK 4.0 Priority Queue
 
-[![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
-[![React](https://img.shields.io/badge/React-18+-blue.svg)](https://reactjs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-6.0+-green.svg)](https://www.mongodb.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-red.svg)](https://fastapi.tiangolo.com/)
-
 A comprehensive blockchain-based NFT platform revolutionizing healthcare priority management and educational achievement verification through two innovative modules: **LifeNFT** and **GYAANFT**.
 
 ## 🌟 Overview
